@@ -7,6 +7,7 @@ This repository contains my solutions for the Advanced Java assignments.
 * **Task 2:** [Task2](./Task2) - Fetch and Display Data.
 * **Task 3:** [Task3](./Task3) - Insert Student Record.
 * **Task 4:** [Task4](./Task4) - Update Student Marks.
+* **Task 5:** [Task5](./Task5) - Delete Student Record.
 
 ---
 
@@ -29,6 +30,11 @@ This repository contains my solutions for the Advanced Java assignments.
 * **Objective:** Take Student ID and new Marks from the user and update the record in the database.
 * **Status:** Completed.
 * **Output:** Success message ("Marks updated").
+
+## ✅ Task 5: Delete Student Record
+* **Objective:** Take Student ID from the user and delete the corresponding record from the database.
+* **Status:** Completed.
+* **Output:** Success message ("Student record deleted").
 
 ---
 *Created by Om Ingle*
